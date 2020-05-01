@@ -1,0 +1,7 @@
+// Backend
+palette-backend/node_modules
+palette-backend/.env
+palette-backend/server.key
+palette-backend/server.cert
+palette-backend/bin/server.key
+palette-backend/bin/server.cert
